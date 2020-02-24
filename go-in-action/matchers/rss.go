@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"Manning/go-in-action/C2/search"
+	"Manning/go-in-action/search"
 )
 
 type (
